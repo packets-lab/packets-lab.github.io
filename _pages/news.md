@@ -1,12 +1,18 @@
+---
+layout: page
+title: news
+permalink: /news
+description:
+---
+
 <div class="news">
-  <h2>news</h2>
   {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
-      {% for item in news limit: site.news_limit %}
+      {% for item in news %}
         <tr>
-          <td>{{ item.date | date: "%b %-d, %Y" }}</td>
+          <td scope="row">{{ item.date | date: "%b %-d, %Y" }}</td>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -16,12 +22,7 @@
           </td>
         </tr>
       {% endfor %}
-      <tr>
-        <td></td>
-        <td><a href="/news">all news</a></td>
-      </tr>
       </table>
-
     </div>
   {% else %}
     <p>No news so far...</p>
