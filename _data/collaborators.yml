@@ -9,3 +9,13 @@
   info: Senior Lecturer In Computer Science
   email: bernhard@sussex.ac.uk
   research: Software/network verification
+
+- name: <a href="https://www.linkedin.com/in/philtee" target="_blank">Phil Tee</a>
+  photo: pt.jpg
+  info:  CEO, Moogsoft
+  research: Network monitoring/management
+
+- name: <a href="https://uk.linkedin.com/in/robert-harper-84541a4" target="_blank">Rob Harper</a>
+  photo: rh.jpg
+  info: Chief Science Officer, Moogsoft
+  research: Network monitoring/management
