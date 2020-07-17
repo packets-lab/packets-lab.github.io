@@ -1,0 +1,11 @@
+- name: <a href="http://users.sussex.ac.uk/~lb203/" target="_blank">Luc Berthouze</a>
+  photo: lb.jpg
+  info: Professor Of Complex Systems
+  email: L.Berthouze@sussex.ac.uk
+  research: Complex systems, network management
+
+- name: <a href="http://users.sussex.ac.uk/~bernhard/" target="_blank">Bernhard Reus</a>
+  photo: br.jpg
+  info: Senior Lecturer In Computer Science
+  email: bernhard@sussex.ac.uk
+  research: Software/network verification
