@@ -7,7 +7,7 @@ email: packets@sussex.ac.uk
 description: > # this means to ignore newlines until "url:"
   Website of the packets research lab
 footer_text: >
-  
+
 
 url:
 baseurl:
@@ -37,7 +37,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-172133420-2 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
