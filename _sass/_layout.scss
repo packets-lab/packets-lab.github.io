@@ -1,0 +1,58 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+ body {
+   padding-bottom: 70px;
+   color: $text-color;
+ }
+
+ body.fixed-top-nav {
+   // Add some padding for the nav-bar.
+   padding-top: 56px;
+ }
+
+ body.sticky-bottom-footer {
+   // Remove padding below footer.
+   padding-bottom: 0;
+ }
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+.hr-default {
+  border-color: $theme-color;
+}
+
+#gridid {
+  img {
+    margin: 0px 0px 0px 37px;
+    border-radius:10%;
+    width: 70%;
+    box-shadow: 2px 2px 5px #888888;
+  }
+}
+
+// TODO: redefine content layout.
+
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.

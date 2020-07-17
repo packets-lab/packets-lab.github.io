@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <article>
+    <div class="row">
+      <div class="col">
+        {{ content }}
+      </div>
+    </div>
+
+    <hr class="hr-default">
+
+    {% if page.news %}
+    {% include news.html %}
+    {% endif %}
+
+  </article>
+
+</div>

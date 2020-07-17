@@ -1,0 +1,19 @@
+- name: <a href="https://www.linkedin.com/in/philtee" target="_blank">Phil Tee</a>
+  photo: pt.jpg
+  info:  PhD <br/>Vertex entropy, network monitoring
+
+- name: <a href="http://www.uclmail.net/users/m.kheirkhah/" target="_blank">Morteza Kheirhakh</a>
+  photo: mk.jpg
+  info: PhD <br/>Multipath data transport in data centres
+
+- name: Walla Al-Eidarous
+  photo: bio-photo.jpg
+  info: PhD <br/> Routing in dense opportunistic networks
+
+- name: <a href="http://www.uclmail.net/users/m.kheirkhah/" target="_blank">Aydın Rajaei</a>
+  photo: ar.jpg
+  info: PhD <br/> Geocasting in opportunistic networks
+
+- name: <a href="https://profiles.sussex.ac.uk/p378770-antoine-messager" target="_blank">Antoine Messager</a>
+  photo: bio-photo.jpg
+  info: PhD <br/> Functional topology inference from network events

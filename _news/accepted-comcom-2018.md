@@ -1,0 +1,12 @@
+---
+layout: post
+title: Paper accepted at Computer Communications.
+date: 2018-01-01
+inline: false
+---
+
+A. Rajaei, D. Chalmers, I. Wakeman, and G. Parisis, “Efficient Geocasting in Opportunistic Networks”, in Computer Communications, vol. 127, 2018.
+
+With the proliferation of smartphones and their advanced connectivity capabilities, opportunistic networks have gained a lot of traction during the past years; they are suitable for increasing network capacity and sharing ephemeral, localised content. They can also offload traffic from cellular networks to device-to-device ones, when cellular networks are heavily stressed. Opportunistic networks can play a crucial role in communication scenarios where the network infrastructure is inaccessible due to natural disasters, large-scale terrorist attacks or government censorship. Geocasting, where messages are destined to specific locations (casts) instead of explicitly identified devices, has a large potential in real world opportunistic networks, however it has attracted little attention in the context of opportunistic networking.
+
+In this paper we propose Geocasting Spray And Flood (GSAF), a simple and efficient geocasting protocol for opportunistic networks. GSAF follows an elegant and flexible approach where messages take random walks towards the destination cast. Messages that are routed away from the destination cast are extinct when devices’ buffers get full, freeing space for new messages to be delivered. In GSAF, casts do not have to be pre-defined; instead users can route messages to arbitrarily defined casts. GSAF does that in a privacy-preserving fashion. We also present DA-GSAF, a Direction-Aware extension of GSAF in which messages are forwarded to encountered nodes based on whether a node is moving towards their destination cast. In DA-GSAF only the direction of a mobile node is revealed to other devices. We experimentally evaluate our protocols and compare their performance to prominent geocasting protocols in a very wide set of scenarios, including different maps, mobility models and user populations. Both GSAF and DA-GSAF perform significantly better compared to all other studied protocols, in terms of message delivery ratio, latency and network overhead. DA-GSAF is particularly efficient in sparse scenarios minimising network overhead compared to all other studied protocols. Both GSAF and DA-GSAF perform very well for a wide range of device/user populations indicating that our proposal is viable for crowded and sparse opportunistic networks.
