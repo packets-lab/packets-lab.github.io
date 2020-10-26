@@ -16,10 +16,6 @@ We have developed *Geocasting Spray And Flood (GSAF)*, a simple and efficient ge
 
 We are developing *GeoHawk*, a routing protocol for dense mobile networks that support opportunistic communication and content dissemination among mobile devices in crowded events. The driving use case has been the Grand Mosque, the largest mosque in the world located at the heart of the city of Makkah in Saudi Arabia. During Ramadan and Hajj seasons, the Grand Mosque can get extremely crowded, with anticipated number of visitors close to 2.5 million, after the current expansion work is completed. The proposed protocol deals with the very high density of users/devices by heavily aggregating routing information using Bloom filters. Identifiers of mobile devices that reside within specific geographical regions are disseminated in the network in the form of Bloom filters. Said geographical regions are dynamically created and destroyed; their size evolves to reflect the uncertainty in the topology, due to mobility and potential inaccuracies of the underlying location estimation mechanism. Bloom filters are also decayed to reflect information ageing. Devices exchange routing information with their neighbours and announce aggregated information (i.e. Bloom filters) in messages that propagate towards specific directions and reach distant areas of the opportunistic network. Data is then disseminated (and replicated through a simple but efficient ticketing mechanism) towards directions where the information about the existence of the destination node is stronger. Upon reaching the best known region for the destination node, a message is either flooded, if the belief that the node resides in the region is strong (as indicated by a belief threshold), or, in the opposite case, redirected to a randomly selected region.
 
-#### opportunistic routing in stadia
-
-TODO
-
 #### funding
 
 The work has been funded by EPSRC and the School of Engineering and Informatics, University of Sussex.

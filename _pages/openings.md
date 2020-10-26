@@ -6,11 +6,11 @@ description:
 nav: true
 ---
 
-<hr class="hr-default">
+<!-- <hr class="hr-default"> -->
 
-We are currently advertising a number of fully-funded PhD studentships in the broader areas of computer network management and protocols with a focus on machine learning (e.g. automated network management by exploiting inferred functional and causal dependencies, machine-learned congestion control and routing policies with reinforcement learning) and information-theoretical approaches (e.g. RaptorQ coding for efficient data transport).
+<!-- We are currently advertising a number of fully-funded PhD studentships in the broader areas of computer network management and protocols with a focus on machine learning (e.g. automated network management by exploiting inferred functional and causal dependencies, machine-learned congestion control and routing policies with reinforcement learning) and information-theoretical approaches (e.g. RaptorQ coding for efficient data transport).
 
-See <a href="https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1199-5-PhD-Studentships-in-Network-Science" target="_blank"> here </a> for more details.
+See <a href="https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1199-5-PhD-Studentships-in-Network-Science" target="_blank"> here </a> for more details. -->
 
 <hr class="hr-default">
 

@@ -131,10 +131,6 @@
 
 <p>We are developing <em>GeoHawk</em>, a routing protocol for dense mobile networks that support opportunistic communication and content dissemination among mobile devices in crowded events. The driving use case has been the Grand Mosque, the largest mosque in the world located at the heart of the city of Makkah in Saudi Arabia. During Ramadan and Hajj seasons, the Grand Mosque can get extremely crowded, with anticipated number of visitors close to 2.5 million, after the current expansion work is completed. The proposed protocol deals with the very high density of users/devices by heavily aggregating routing information using Bloom filters. Identifiers of mobile devices that reside within specific geographical regions are disseminated in the network in the form of Bloom filters. Said geographical regions are dynamically created and destroyed; their size evolves to reflect the uncertainty in the topology, due to mobility and potential inaccuracies of the underlying location estimation mechanism. Bloom filters are also decayed to reflect information ageing. Devices exchange routing information with their neighbours and announce aggregated information (i.e. Bloom filters) in messages that propagate towards specific directions and reach distant areas of the opportunistic network. Data is then disseminated (and replicated through a simple but efficient ticketing mechanism) towards directions where the information about the existence of the destination node is stronger. Upon reaching the best known region for the destination node, a message is either flooded, if the belief that the node resides in the region is strong (as indicated by a belief threshold), or, in the opposite case, redirected to a randomly selected region.</p>
 
-<h4 id="opportunistic-routing-in-stadia">opportunistic routing in stadia</h4>
-
-<p>TODO</p>
-
 <h4 id="funding">funding</h4>
 
 <p>The work has been funded by EPSRC and the School of Engineering and Informatics, University of Sussex.</p>
@@ -165,7 +161,7 @@
     &copy; Copyright 2020 packets.
     
     
-    Last updated: July 17, 2020.
+    Last updated: October 26, 2020.
     
   </div>
 </footer>
@@ -223,7 +219,7 @@
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-XXXXXXXXX', 'auto');
+ga('create', 'UA-172133420-2', 'auto');
 ga('send', 'pageview');
 </script>
 
