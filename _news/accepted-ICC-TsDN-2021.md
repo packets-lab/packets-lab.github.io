@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper accepted at IEEE ICC 2021 Workshop on Time-sensitive and Deterministic Networking
-date: 2021-24-03
+date: 2021-03-24
 inline: false
 ---
 
