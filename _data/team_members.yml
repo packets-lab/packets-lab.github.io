@@ -1,4 +1,4 @@
-- name: <a href="https://georgeparisis.github.io/" target="_blank">George Parisis (Lab Director)</a>
+- name: <a href="https://georgeparisis.github.io/" target="_blank">George Parisis</a>
   photo: gp.jpg
   info: Reader in Computer Science
   email: G.Parisis@sussex.ac.uk
@@ -6,7 +6,7 @@
 
 - name: <a href="https://profiles.sussex.ac.uk/p10651-ian-wakeman" target="_blank">Ian Wakeman</a>
   photo: iw.jpg
-  info: Professor in Software Systems
+  info: Professor of Software Systems
   email: I.J.Wakeman@sussex.ac.uk
   research: Network protocols, management
 
@@ -22,17 +22,11 @@
   email: M.Alasmar@sussex.ac.uk
   research: Network protocols, Internet traffic analysis
 
-- name: <a href="https://profiles.sussex.ac.uk/p384763-vasileios-klimis" target="_blank">Amani Ibraheem</a>
+- name: <a href="https://profiles.sussex.ac.uk/p450571-amani-ibraheem" target="_blank">Amani Ibraheem</a>
   photo: ai.jpg
   info: PhD Student
   email: A.Ibraheem@sussex.ac.uk
   research: Machine-learned network tomography
-
-- name: <a href="https://profiles.sussex.ac.uk/p384763-vasileios-klimis" target="_blank">Vasileios Klimis</a>
-  photo: vk.jpg
-  info: PhD Student
-  email: V.Klimis@sussex.ac.uk
-  research: Network verification
 
 - name: <a href="https://www.linkedin.com/in/luca-giacomoni-343b8582/" target="_blank">Luca Giacomoni</a>
   photo: lg.jpg
