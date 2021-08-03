@@ -24,6 +24,12 @@ This work has been funded by Innovate UK and Moogsoft.
 
 #### publications
 
+M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, “Internet Traffic Volumes Are Not Gaussian – They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction”, in IEEE/ACM Transactions on Networking, vol. 29, no. 3, pp. 1266-1279, 2021, doi: 10.1109/TNET.2021.3059542.
+
+A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, “Neural Network based Partial Tomography for In-Vehicle Network Monitoring”, In Proceedings of IEEE ICC 2021 Workshop on Time-sensitive and Deterministic Networking, 2021.
+
+A. Messager, G. Parisis, I. Z. Kiss, R. Harper, P. Tee and L. Berthouze, “Inferring Functional Connectivity from Time-series of Events in Large Scale Network Deployments”, in IEEE Transactions on Network and Service Management, vol. 16, no. 3, 2019.
+
 M. Alasmar, G. Parisis, R. Clegg, N. Zakhleniuk, “On the Distribution of Traffic Volumes in the Internet and its Implications”, In Proceedings of IEEE INFOCOM, 2019.
 
 A. Messager, G. Parisis, I. Z. Kiss, R. Harper, P. Tee and L. Berthouze, “Functional Topology Inference from Network Events”, In Proceedings of IFIP/IEEE IM 2019.

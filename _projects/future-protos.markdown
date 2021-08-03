@@ -24,9 +24,11 @@ We present extensive evaluation that shows that MMPTCP’s design objectives are
 
 #### funding
 
-Early on, this work has been supported by the Trilogy 2 EU project. Currently, it is funded by the School of Engineering and Informatics. An Amazon research award supports experimentation with AWS EC2 instances. 
+Early on, this work has been supported by the Trilogy 2 EU project. Currently, it is funded by the School of Engineering and Informatics. An Amazon research award supports experimentation with AWS EC2 instances.
 
 #### publications
+
+M. Alasmar, G. Parisis and J. Crowcroft, “SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centres”, in IEEE/ACM Transactions on Networking, 2021.
 
 M. Kheirkhah, I. Wakeman and G. Parisis, “Multipath Transport and Packet Spraying for Efficient Data Delivery in Data Centres”, in Computer Networks, vol. 162, 2019.
 
