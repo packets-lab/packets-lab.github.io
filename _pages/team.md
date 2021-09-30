@@ -35,7 +35,7 @@ nav: true
 
 {% endfor %}
 
-{% if num_in_row <= 1 %}
+{% if num_in_row < 2 %}
 </div>
 {% endif %}
 
@@ -68,7 +68,7 @@ nav: true
 
 {% endfor %}
 
-{% if num_in_row <= 1 %}
+{% if num_in_row < 2 %}
 </div>
 {% endif %}
 
@@ -101,6 +101,6 @@ nav: true
 
 {% endfor %}
 
-{% if num_in_row <= 2 %}
+{% if num_in_row < 2 %}
 </div>
 {% endif %}
