@@ -12,15 +12,15 @@
 
 - name: <a href="http://users.sussex.ac.uk/~zs70/index.html" target="_blank">Zhengguo Sheng</a>
   photo: zs.jpg
-  info: Senior Lecturer In Advanced Networks
+  info: Reader In Advanced Networks
   email: Z.Sheng@sussex.ac.uk
   research: Vehicular networks, cloud/edge computing
 
-- name: <a href="https://mohammedalasmar.github.io" target="_blank">Mohammed Alasmar</a>
-  photo: ma.jpg
-  info: Research Associate
-  email: M.Alasmar@sussex.ac.uk
-  research: Network protocols, Internet traffic analysis
+- name: <a href="https://profiles.sussex.ac.uk/p434634-naercio-magaia/professional" target="_blank">Naercio Magaia</a>
+  photo: nm.jpg
+  info: Lecturer in Informatics
+  email: N.Magaia@sussex.ac.uk
+  research: Wireless networks, network protocols, cybersecurity
 
 - name: <a href="https://profiles.sussex.ac.uk/p450571-amani-ibraheem" target="_blank">Amani Ibraheem</a>
   photo: ai.jpg
@@ -42,6 +42,6 @@
 
 - name: <a href="https://www.linkedin.com/in/aiden-valentine-9a0856203/" target="_blank">Aiden Valentine</a>
   photo: av.jpg
-  info: Research Assistant
+  info: PhD Student
   email: av288@sussex.ac.uk
   research: Network protocols, LEO satellite networks
