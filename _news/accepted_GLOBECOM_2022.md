@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at CNSM 2022
+title: Paper accepted at GLOBECOM 2022
 date: 2022-08-02
 inline: false
 ---
