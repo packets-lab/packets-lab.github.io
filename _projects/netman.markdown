@@ -20,9 +20,15 @@ We have been working on identifying critical nodes in a network in order to elim
 
 #### funding
 
-This work has been funded by Innovate UK and Moogsoft.
+This work has been funded by EPSRC, Innovate UK and Moogsoft.
 
 #### publications
+
+G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of CNSM, 2022.
+
+A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, In-Vehicle Network Delay Tomography, in Proc. of IEEE GLOBECOM, 2022.
+
+G. Winchester, G. Parisis, and L. Berthouze, “Exploiting Functional Connectivity Inference for Efficient Root Cause Analysis”, in Proceedings of IEEE/IFIP NOMS, 2022.
 
 M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, “Internet Traffic Volumes Are Not Gaussian – They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction”, in IEEE/ACM Transactions on Networking, vol. 29, no. 3, pp. 1266-1279, 2021, doi: 10.1109/TNET.2021.3059542.
 

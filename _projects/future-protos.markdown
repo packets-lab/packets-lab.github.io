@@ -6,7 +6,14 @@ img: /assets/img/dc-proto.jpg
 importance: 1
 ---
 
-Modern data centres provide large aggregate network capacity and multiple paths among servers. Traffic in data centres is very diverse; most of the data is produced by long, bandwidth hungry flows but the large majority of flows, which commonly come with stringent deadlines regarding their completion time, are short. It has been shown that TCP is not efficient for any of these types of traffic in modern data centres. MultiPath TCP (MPTCP) employs multipath data transport and is efficient for long flows but ill-suited for short flows.
+**Low Earth Orbit (LEO) satellite constellations**. Very large constellations of Low Earth Orbit (LEO) satellites are currently being deployed; private companies (e.g., SpaceX, OneWeb) lead the race and billion-dollar investments are already in place [1]. This will give rise to unprecedented wide-area network deployments that will provide 100% geographic coverage and exhibit a unique combination of characteristics; (1) aggregate bandwidth in the order of hundreds of Tbps, which is comparable to today’s aggregate fibre capacity; (2) multiple paths in a dense and constantly changing network topology; (3) sub-10ms round-trip time between the Earth and the first hop satellite; (4) low but varying end-to-end latency that can be smaller than what the best theoretical fibre path can support. LEO deployments present significant challenges calling for a rethink of routing and data transport mechanisms to ensure efficient usage of network resources. In this research strand we are rethinking data transport over LEO satellite networks.
+
+**Data centre networks**. Modern data centres provide large aggregate network capacity and multiple paths among servers. Traffic in data centres is very diverse; most of the data is produced by long, bandwidth hungry flows but the large majority of flows, which commonly come with stringent deadlines regarding their completion time, are short. It has been shown that TCP is not efficient for any of these types of traffic in modern data centres. MultiPath TCP (MPTCP) employs multipath data transport and is efficient for long flows but ill-suited for short flows.
+
+#### LEO satellite network simulations
+
+We developed a LEO satellite constellation simulation model1 within OMNeT++ and INET, which is validated by comparing the results with existing work. Our model builds upon the fundamentals of the Open Source Satellite Simulator (OS3 ), which was ported to the latest version of INET framework.
+
 
 #### polyraptor
 
@@ -24,9 +31,11 @@ We present extensive evaluation that shows that MMPTCP’s design objectives are
 
 #### funding
 
-Early on, this work has been supported by the Trilogy 2 EU project. Currently, it is funded by the School of Engineering and Informatics. An Amazon research award supports experimentation with AWS EC2 instances.
+Research in this strand has been funded by the School of Engineering and Informatics, an Amazon research award (providing AWS EC2 instances) and GEANT's Innovation Programme.
 
 #### publications
+
+A. Valentine and G. Parisis, “Developing and experimenting with LEO satellite constellations in OMNeT++”, In Proceedings of the 8th OMNeT++ Community Summit, 2021.
 
 M. Alasmar, G. Parisis and J. Crowcroft, “SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centres”, in IEEE/ACM Transactions on Networking, 2021.
 
