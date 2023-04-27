@@ -35,6 +35,8 @@ Research in this strand has been funded by the School of Engineering and Informa
 
 #### publications
 
+A. Valentine and G. Parisis, Data transport for the orbiting internet, in Proc. of IEEE INFOCOM (poster session), 2023.
+
 A. Valentine and G. Parisis, “Developing and experimenting with LEO satellite constellations in OMNeT++”, In Proceedings of the 8th OMNeT++ Community Summit, 2021.
 
 M. Alasmar, G. Parisis and J. Crowcroft, “SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centres”, in IEEE/ACM Transactions on Networking, 2021.
