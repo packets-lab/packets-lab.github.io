@@ -24,6 +24,8 @@ This work has been funded by EPSRC, Innovate UK and Moogsoft.
 
 #### publications
 
+G. Winchester, G. Parisis, and L. Berthouze, On the temporal behaviour of a large-scale microservice architecture, in Proc. of IEEE/IFIP AnNet, 2023.
+
 G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of CNSM, 2022.
 
 A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, In-Vehicle Network Delay Tomography, in Proc. of IEEE GLOBECOM, 2022.
