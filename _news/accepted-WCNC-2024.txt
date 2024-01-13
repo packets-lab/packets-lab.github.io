@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at IEEE WCNC 2024
+date: 2023-11-01
+inline: false
+---
+
+A. Ibraheem, Z. Sheng, and G. Parisis, Anomaly Detection and Classification for SDN-enabled In-Vehicle Network using Network Tomography-based Deep Learning, in IEEE WCNC , 2024.
+
+Modern in-vehicle networks are shifting towards an Ethernet-based backbone where high bandwidth and low latency can be guaranteed. However, this comes with the cost of exposing the vehicle to more IP-based attacks such as blackholes and Denial of Service (DoS) attacks. To better secure the in- vehicle network, it is essential to provide efficient monitoring and anomaly detection mechanisms in order to detect such attacks. Software-Define Networking (SDN) facilitates these tasks by providing a global view of the underlying network available at the SDN controller. To this end, we propose in this work an anomaly detection solution for SDN-enabled in-vehicle networks. In particular, we use deep learning and network tomography to monitor the network. The deep learning model used in this paper is based on deep autoencoder neural networks. Moreover, network tomography is leveraged so that only a subset of the network is monitored while the remaining can be inferred using the available measurements. We investigate anomaly detection using two types of statistics: flows and ports. We found that the flows’ stats outperform the ports’ stats in detecting anomalies. Moreover, by only monitoring selected flows, the proposed solution can detect anomalies with an accuracy of up to 99%. In addition, our approach can classify the type of attack, whether it is DoS, SYN flooding, or ARP spoofing attack with only 3% maximum error.

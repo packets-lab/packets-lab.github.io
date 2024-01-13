@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at IEEE INFOCOM 2024
+date: 2023-12-01
+inline: false
+---
+
+L. Giacomoni and G. Parisis, “Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness” in IEEE INFOCOM, 2024.
+
+Reinforcement learning (RL)-based congestion control (CC) promises efficient CC in a fast-changing networking landscape, where evolving communication technologies, applications and traffic workloads pose severe challenges to human-derived CC algorithms. RL-based CC is in its early days and substantial research is required to understand existing limitations, identify research challenges and yield deployable solutions. In this paper we present the first reproducible and systematic study of RL-based CC with the aim to highlight strengths and uncover fundamental limitations of the state-of-the-art. We identify challenges in evaluating RL-based CC, establish a methodology for studying said approaches and perform experimentation with RL-based CC approaches that are publicly available. We show that existing approaches can acquire all available bandwidth swiftly and are resistant to non-congestive loss, at the cost of excessive packet loss in normal operation. We show that, as fairness is not embedded into reward functions, existing approaches exhibit unfairness in almost all tested network setups. Finally, we show that existing RL-based CC approaches under-perform when the available bandwidth and end-to-end latency dynamically change. Our codebase and datasets are publicly available with the aim to galvanise the community towards transparency and reproducibility, which have been recognised as crucial for researching and evaluating machine-generated policies.
