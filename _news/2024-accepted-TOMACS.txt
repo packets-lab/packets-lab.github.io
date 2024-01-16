@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at ACM Transactions on Modeling and Computer Simulation
+date: 2024-01-16
+inline: false
+---
+
+L. Giacomoni and G. Parisis, “RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols”, in ACM Transactions on Modeling and Computer Simulation, 2024.
+
+Reinforcement Learning (RL) has gained significant momentum in the development of network protocols. However, RL-based protocols are still in their infancy, and substantial research is required to build deployable solutions. Developing a protocol based on RL is a complex and challenging process that involves several model design decisions and requires significant training and evaluation in real and simulated network topologies. Network simulators offer an efficient training environment for RL-based protocols, because they are deterministic and can run in parallel. In this paper, we introduce RayNet, a scalable and adaptable simulation platform for the development of RL-based network protocols. RayNet integrates OMNeT++, a fully programmable network simulator, with Ray/RLlib, a scalable training platform for distributed RL. RayNet facilitates the methodical development of RL-based network protocols so that researchers can focus on the problem at hand and not on implementation details of the learning aspect of their research. We developed a simple RL-based congestion control approach as a proof of concept showcasing that RayNet can be a valuable platform for RL-based research in computer networks, enabling scalable training and evaluation. We compared RayNet with ns3-gym, a platform with similar objectives to RayNet, and showed that RayNet performs better in terms of how fast agents can collect experience in RL environments.
