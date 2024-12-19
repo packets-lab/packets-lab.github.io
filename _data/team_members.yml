@@ -22,32 +22,26 @@
   email: N.Magaia@sussex.ac.uk
   research: Wireless networks, network protocols, cybersecurity
 
-- name: <a href="https://profiles.sussex.ac.uk/p619732-russell-waller" target="_blank">Russel Waller</a>
-  photo: bio-photo.jpg
-  info: Research Fellow in Machine Learning
-  email: R.L.Waller@sussex.ac.uk
-  research: Network management, Functional connectivity
-
-- name: <a href="https://profiles.sussex.ac.uk/p450571-amani-ibraheem" target="_blank">Amani Ibraheem</a>
-  photo: ai.jpg
-  info: PhD Student
-  email: A.Ibraheem@sussex.ac.uk
-  research: Machine-learned network tomography
-
-- name: <a href="https://www.linkedin.com/in/luca-giacomoni-343b8582/" target="_blank">Luca Giacomoni</a>
-  photo: lg.jpg
-  info: PhD Student
-  email: L.Giacomoni@sussex.ac.uk
-  research: Machine-learned congestion control
-
 - name: <a href="https://www.linkedin.com/in/giles-winchester-912625189/" target="_blank">Giles Winchester</a>
   photo: gw.jpg
-  info: PhD Student
+  info: Research Associate
   email: G.Winchester@sussex.ac.uk
   research: Network management, Functional connectivity
 
 - name: <a href="https://www.linkedin.com/in/aiden-valentine-9a0856203/" target="_blank">Aiden Valentine</a>
   photo: av.jpg
   info: PhD Student
-  email: av288@sussex.ac.uk
+  email: A.Valentine@sussex.ac.uk
   research: Network protocols, LEO satellite networks
+
+- name: <a href="" target="_blank">Mihai Mazilu</a>
+  photo: mm.jpg
+  info: PhD Student
+  email: M.Mazilu@sussex.ac.uk
+  research: Network protocols, LEO satellite networks
+
+- name: <a href="" target="_blank">Ashfaq Salehin</a>
+  photo: as.jpg
+  info: PhD Student
+  email: M.Salehin@sussex.ac.uk
+  research: Network management
