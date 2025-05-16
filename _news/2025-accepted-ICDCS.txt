@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at IEEE ICDCS 2025 (short paper)
+date: 2025-05-16
+inline: false
+---
+
+G. Winchester, G. Parisis, and L. Berthouze, Time-Varying Functional Connectivity for Scalable Observability in Microservice Architectures, in Proc. of IEEE ICDCS (short paper), 2025.
+
+Microservices have transformed software architec- ture through the creation of modular and independent services. However, they introduce operational complexities in service inte- gration and system management that makes swift and accurate anomaly detection and localisation challenging. Prior works on fault localisation within microservice architectures have seen the use of causal inference to infer dependencies between microser- vices during a fault. However, they scale poorly to real world deployments due to their reliance on computationally expensive causal inference. Furthermore, such approaches often rely on the onset of a fault being known, or on anomaly detection approaches that do not consider the dependencies between microservices. In this paper we explore the use of functional connectivity to efficiently infer statistical relationships between microservice metrics at runtime and to detect changes within microservice deployments. We demonstrate that such structural changes can be indicative of faults which in turn can be used to locate candidates for root cause analysis without incurring the significant overheads of causal inference approaches, achieving state-of-the-art localisation performance.
