@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at IFIP Networking 2026
+date: 2026-04-20
+inline: false
+---
+
+M. Mazilu, A. Valentine, I. Wakeman, G. Parisis, An Experimental Study of Congestion Control in LEO Satellite Networks, in Proc. of IFIP Networking, 2026.
+
+Low Earth Orbit (LEO) satellite networks introduce unique congestion control (CC) challenges due to frequent handovers, rapidly changing round-trip times (RTTs), and non-congestive loss. Developing effective transport for these environments requires a clear, comparable understanding of the performance profiles of both state-of-the-art Internet CC and emerging LEO-tailored designs, yet producing such profiles is challenging because LEO dynamics make experiments difficult to control, reproduce, and interpret. To address this, we conduct an emulation-driven evaluation of CC schemes in LEO networks, combining realistic orbital dynamics via the LeoEM framework with targeted Mininet micro-benchmarks that isolate specific conditions. We evaluate representative algorithms from three classes: loss-based Cubic, model-based BBRv3, and learning-based approaches Vivace and Astraea, alongside LEO-tailored SaTCP and LeoCC, across diverse scenarios. Results show that (1) handover-aware schemes can reclaim bandwidth but often at the cost of increased latency; (2) BBRv3 sustains high throughput with modest delay penalties, yet adapts slowly to abrupt RTT shifts; (3) learning-based schemes underperform under dynamic conditions, despite strong resistance to non-congestive loss; and (4) fairness degrades markedly under RTT asymmetry and multiple bottlenecks, particularly for human-designed CC schemes. These findings highlight limitations of today’s CC approaches and help inform the design of LEO-specific schemes.
