@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at ICPP 2026
+date: 2026-07-13
+inline: false
+---
+
+A.Salehin, G. Parisis, L. Berthouze, Tempest: A GPU-Accelerated Engine for Streaming Temporal Random Walks, in Proc. of ICPP, 2026.
+
+Temporal random walks, which sample causality-preserving paths, are widely used to analyze time-stamped interactions in domains such as microservices, finance, and online platforms. Generating such walks at scale is challenging because real-world graphs evolve as high-volume streams, making continuous ingestion, efficient memory usage, and strict temporal ordering essential for practical deployment. We present Tempest (TEMPoral nEtwork Streaming Traversals), a GPU-accelerated engine for streaming temporal random walks. Tempest introduces a GPU-native dual-index organization over a shared edge store, enabling efficient start-edge selection, hop-by-hop causality enforcement, and window-based eviction without synchronization. It further provides closed-form constant-time samplers for common temporal bias functions. Our evaluation demonstrates sustained real-time processing of billion-edge streams under sliding windows, outperforming prior systems in ingestion and walk generation throughput while preserving walk correctness and downstream ML accuracy.
