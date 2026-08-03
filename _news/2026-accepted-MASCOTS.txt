@@ -1,0 +1,10 @@
+---
+layout: post
+title: Paper accepted at MASCOTS 2026
+date: 2026-12-03
+inline: false
+---
+
+A. Valentine, M. Mazilu, J. Knowles, I. Wakeman and George Parisis, Emulation vs Simulation: A Case Study from Congestion Control Algorithms in Low Earth Orbit Satellite Networks, in Proc. of MASCOTS, 2026.
+
+Evaluating congestion control is inherently challenging because performance depends on the interaction between the congestion-control algorithm, transport stack, application behaviour, measurement process, and network dynamics. This challenge is growing as state-of-the-art protocols incorporate pacing, selective loss recovery, model-based control, and, more recently, reinforcement learning. Low Earth Orbit (LEO) satellite networks are a particularly demanding setting: rapidly changing paths, handovers, non-congestive loss, RTT variation, and transient hotspots all affect transport behaviour. This paper reports the lessons learned from an extensive evaluation campaign across both simulation and emulation for LEO satellite congestion control. We compare multiple classes of congestion-control algorithms, including Cubic, BBR variants, LEO-specific protocols, and reinforcement-learning-based control, using comparable implementations across OMNeT++/INET simulation and Mininet-based emulation with the Linux transport stack. This gives us a rare opportunity to examine not only protocol performance, but also the methodological strengths and limitations of each experimental environment. Our findings show that simulation is indispensable for constellation-scale exploration, controlled parameter sweeps, and future deployment studies, but can miss behaviours caused by production transport-stack mechanisms such as pacing, SACK, RACK, kernel timing, and rate sampling. Emulation exposes these implementation-dependent effects and provides a necessary validation step, but is harder to scale and less exactly repeatable. We distil these experiences into practical lessons for combining simulation and emulation to obtain results that are scalable, reproducible, and deployment-relevant.
